@@ -1,6 +1,6 @@
 {
   "name": "jxrt-ui-by-antdv",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "smallChicken",
   "description": "基于 ant-design-vue 封装的业务组件",
   "private": false,
