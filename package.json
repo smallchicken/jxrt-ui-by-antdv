@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository" : { 
     "type" : "git"
-  , "url" : "https://github.com/npm/npm.git"
+  , "url" : "https://github.com/smallchicken/jxrt-ui-by-antdv"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
